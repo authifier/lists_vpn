@@ -15,7 +15,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Dependencies
       run: |
-        sudo apt-get install ipcalc
+        sudo apt-get install ipcalc whois
     - name: Downloading ASN database
       run: |
         curl https://iptoasn.com/data/ip2asn-v4.tsv.gz | gzip -d > /tmp/asndb.tsv
