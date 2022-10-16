@@ -793,3 +793,5 @@ AS15391 # FORMAT sp. z o.o.
 AS39566 # Smarthost sp. z o.o.
 AS199524 # G-Core Labs S.A.
 AS61003 # GlobalTeleHost Corp.
+AS212238 # CDNEXT
+AS136787 # Tefincom S.A.
